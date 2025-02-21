@@ -42,11 +42,17 @@ Open Web UI
 http://192.168.4.1
 
 📡 BLE Remote Control
+
 START_SOUL_HARVEST - Start Evil Twin Attack
+
 STOP_SOUL_HARVEST - Stop Evil Twin Attack
+
 START_SOUL_DISRUPTION - Start Deauth Attack
+
 STOP_SOUL_DISRUPTION - Stop Deauth Attack
+
 START_PHANTOM_HANDSHAKE - Capture WPA2 Handshake
+
 🛑 Legal Disclaimer
 This tool is for educational and security research purposes only. Unauthorized use against networks you do not own is strictly prohibited.
 
