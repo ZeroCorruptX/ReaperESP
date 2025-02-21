@@ -34,6 +34,7 @@ Compile & Upload firmware
 Connect to WiFi AP
 
 SSID: ReaperESP-SoulHarvest
+
 Password: harvest123
 
 Open Web UI
