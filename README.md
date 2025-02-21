@@ -22,7 +22,7 @@
 ### 🛠 Installation
 1. **Clone Repository**  
    ```sh
-   git clone https://github.com/yourusername/ReaperESP.git
+   git clone https://github.com/ZeroCorruptX/ReaperESP.git
    cd ReaperESP
 
    Flash Firmware
